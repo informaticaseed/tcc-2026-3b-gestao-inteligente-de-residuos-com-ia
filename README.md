@@ -8,7 +8,7 @@
 | Nome completo | GitHub | Turma |
 |--------------|--------|-------|
 | Rafael Martins Alves | @rafaelalvesmartins | 3A |
-| (nome 2) | @username | 3A |
+| Rodrigo Martins Alves | @rodrigoalves | 3B |
 | (nome 3) | @username | 3A |
 
 **Tema:** (escreva aqui em 1 frase)
