@@ -1,4 +1,7 @@
-# TCC 2026 — [Nome do Grupo]
+Aqui está o conteúdo preenchido, mantendo exatamente a mesma estrutura e formatação que enviou:
+
+# TCC 2026 — Lixeira Inteligente
+
 LTP3 + QP3 · CEMIC 2026 · Prof. Rafael Martins Alves
 
 ---
@@ -6,19 +9,19 @@ LTP3 + QP3 · CEMIC 2026 · Prof. Rafael Martins Alves
 ## 👥 Integrantes
 
 | Nome completo | GitHub | Turma |
-|--------------|--------|-------|
-| Rafael Martins Alves | @rafaelalvesmartins | 3A |
+| --- | --- | --- |
+| Rafael Martins Alves | @rafaelalvesmartins | 3B |
 | Rodrigo Martins Alves | @rodrigoalves | 3B |
-| (nome 3) | @username | 3A |
+| Cauã Vinicius Rodrigues Figueiredo | @nobumeteocapa | 3B |
 
-Tema:  (escreva aqui em 1 frase)
+Tema: Sistema web para monitorização em tempo real e gestão de capacidade de lixeiras inteligentes.
 Tecnologia: Python + Flask + SQLite
 
 ---
 
 ## 🎯 O que o sistema faz
 
-(Descreva em 2-3 frases o problema que o sistema resolve e para quem)
+O sistema resolve o problema da acumulação excessiva de resíduos através da monitorização em tempo real da capacidade de lixeiras inteligentes. O programa processa os dados de sensores de nível, guarda o histórico no banco de dados e apresenta um painel web intuitivo. Isto permite que os utilizadores saibam o momento exato para realizar a recolha, otimizando o tempo e evitando o transbordo de lixo.
 
 ---
 
@@ -33,8 +36,7 @@ Tecnologia: Python + Flask + SQLite
 
 ## 📁 Estrutura do projeto
 
-
-├── README.md           ← este arquivo
+├── README.md        ← este arquivo
 ├── BACKLOG.md          ← resumo fixo do MVP e links
 ├── docs/
 │   ├── arquitetura.md  ← diagrama de arquitetura
@@ -44,19 +46,21 @@ Tecnologia: Python + Flask + SQLite
 ├── src/                ← código do sistema
 └── tests/              ← testes automáticos
 
-
 ---
 
 ## ⚡ Comandos rápidos
 
-  bash
+bash
+
 # Clonar o repositório
-git clone <URL>
+
+git clone 
 
 # Rodar o projeto
+
 pip install -r requirements.txt
 python src/app.py
 
 # Rodar os testes
+
 pytest tests/ -v
- 
