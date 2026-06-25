@@ -1,39 +1,66 @@
-# Backlog do MVP — Gestão Inteligente de Resíduos
+Aqui está o conteúdo preenchido, mantendo exatamente a mesma estrutura e formatação que enviou:
 
-> Este arquivo é o resumo fixo do projeto.
-> O backlog semanal vivo fica nas **Issues** do repositório.
-> Acesse: github.com/informaticaseed/tcc-2026-3b-gestao-inteligente-de-residuos-com-ia/issues
+# TCC 2026 — Lixeira Inteligente
 
----
-
-## 🎯 Objetivo do MVP
-
-O MVP consiste em um sistema web que monitora em tempo real o nível de preenchimento de lixeiras inteligentes utilizando sensores simulados. O objetivo é registrar dados no SQLite e exibir alertas visuais quando a capacidade ultrapassar 80%, otimizando o fluxo de coleta e evitando transbordo de resíduos.
+LTP3 + QP3 · CEMIC 2026 · Prof. Rafael Martins Alves
 
 ---
 
-## ✅ Funcionalidades do MVP
+## 👥 Integrantes
 
-| # | Funcionalidade | Prioridade | Status |
-|---|---------------|-----------|--------|
-| 1 | Autenticação e Login da equipe de limpeza | Alta | ⏳ A fazer |
-| 2 | Painel web com monitoramento em tempo real do volume | Alta | ⏳ A fazer |
-| 3 | API Flask para recepção de dados dos sensores | Alta | ⏳ A fazer |
-| 4 | Alerta visual em tela para nível crítico (acima de 80%) | Média | ⏳ A fazer |
-| 5 | Armazenamento de histórico de descartes no SQLite | Média | ⏳ A fazer |
-| 6 | Relatório simples com horários das últimas coletas | Baixa | ⏳ A fazer |
+| Nome completo | GitHub | Turma |
+| --- | --- | --- |
+| Rafael Martins Alves | @rafaelalvesmartins | 3A |
+| Rodrigo Martins Alves | @rodrigoalves | 3B |
+| (nome 3) | @username | 3A |
 
-> Atualize o Status conforme avança: ⏳ A fazer → 🔄 Fazendo → ✅ Feito
+Tema: Sistema web para monitorização em tempo real e gestão de capacidade de lixeiras inteligentes.
+Tecnologia: Python + Flask + SQLite
 
 ---
 
-## 🚫 Fora do escopo (não entra no MVP)
+## 🎯 O que o sistema faz
 
-- Integração com hardware físico real nesta primeira etapa.
-- Aplicativo mobile nativo para iOS ou Android.
+O sistema resolve o problema da acumulação excessiva de resíduos através da monitorização em tempo real da capacidade de lixeiras inteligentes. O programa processa os dados de sensores de nível, guarda o histórico no banco de dados e apresenta um painel web intuitivo. Isto permite que os utilizadores saibam o momento exato para realizar a recolha, otimizando o tempo e evitando o transbordo de lixo.
 
 ---
 
-## 🔗 Links úteis
+## 🔄 Como o grupo trabalha toda semana
 
-- **Issues (backlog semanal):** [link das issues]
+1. Segunda — cada integrante abre Issues da semana (use o template "Tarefa Semanal")
+2. Durante a semana — trabalham e fazem commits
+3. Sexta — o grupo abre 1 Pull Request linkando as Issues concluídas
+4. Push — métricas de participação aparecem automaticamente no Actions
+
+---
+
+## 📁 Estrutura do projeto
+
+├── README.md        ← este arquivo
+├── BACKLOG.md          ← resumo fixo do MVP e links
+├── docs/
+│   ├── arquitetura.md  ← diagrama de arquitetura
+│   └── decisoes/       ← registros de decisão técnica (ADR)
+├── diagramas/          ← imagens e diagramas
+├── evidencias/         ← screenshots das demos
+├── src/                ← código do sistema
+└── tests/              ← testes automáticos
+
+---
+
+## ⚡ Comandos rápidos
+
+bash
+
+# Clonar o repositório
+
+git clone 
+
+# Rodar o projeto
+
+pip install -r requirements.txt
+python src/app.py
+
+# Rodar os testes
+
+pytest tests/ -v
