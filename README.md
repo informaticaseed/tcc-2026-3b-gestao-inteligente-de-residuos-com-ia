@@ -10,9 +10,9 @@ LTP3 + QP3 · CEMIC 2026 · Prof. Rafael Martins Alves
 
 | Nome completo | GitHub | Turma |
 | --- | --- | --- |
-| Rafael Martins Alves | @rafaelalvesmartins | 3A |
+| Rafael Martins Alves | @rafaelalvesmartins | 3B |
 | Rodrigo Martins Alves | @rodrigoalves | 3B |
-| (nome 3) | @username | 3A |
+| Jose Lopes | @joselopes | 3B |
 
 Tema: Sistema web para monitorização em tempo real e gestão de capacidade de lixeiras inteligentes.
 Tecnologia: Python + Flask + SQLite
