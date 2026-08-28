@@ -10,7 +10,7 @@ LTP3 + QP3 · CEMIC 2026 · Prof. Rafael Martins Alves
 
 | Nome completo | GitHub | Turma |
 | --- | --- | --- |
-| emily kerolaynne | @rafaelalvesmartins | 3B |
+| emily kerolaynne | @emilykerol | 3B |
 | Cauã Vinicius  | @cauavinicius | 3B |
 | Jose Lopes | @joselopes | 3B |
 
@@ -67,4 +67,4 @@ banco de dados esta funcionando
 José e equipe tivemos uma evolução com banco de dados agora ele esta funcionando.
 Emily e equipe estamos quase finalizando o relatório  
 emily e equipe estamos fazendo o cronograma 
-protótipo em faze de testes  
+protótipo em faze de testes    
