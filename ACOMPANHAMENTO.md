@@ -59,13 +59,13 @@ Backlog:
 
 ## Quinzena 3 — 24/08 a 05/09
 
-### Compromissos assumidos em 24/08
+### Compromissos assumidos em 10/09
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Cauã | Montar e integrar o protótipo com a IA;  |
+| José | Colocar imagem,  trocar textos com valores, diagrama DER, diagram de caso de uso, diagrama DFD|
+| Emily | - Testes no arduíno - Slide|
 
 ### Verificação em 05/09
 
