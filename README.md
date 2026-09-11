@@ -4,7 +4,7 @@ Aqui está o conteúdo preenchido, mantendo exatamente a mesma estrutura e forma
 
 LTP3 + QP3 · CEMIC 2026 · Prof. Rafael Martins Alves
 
----
+--- 
 
 ## 👥 Integrantes
 
