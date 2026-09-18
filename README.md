@@ -15,7 +15,7 @@ LTP3 + QP3 · CEMIC 2026 · Prof. Rafael Martins Alves
 | Jose Lopes | @joselopes | 3B |
 
 Tema: Sistema web para monitorização em tempo real e gestão de capacidade de lixeiras inteligentes.
-Tecnologia: Python + Flask + SQLite
+Tecnologia: Python + Flask + SQLite     
 
 ---
 
